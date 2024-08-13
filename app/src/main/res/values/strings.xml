@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MobileTestSuitmediaMSIB</string>
+    <string name="retry">Refresh</string>
+    <string name="test_email_item">2613.muhamad.naufal@gmail.com</string>
+    <string name="test_name_item">Naufal</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="btn_check">CHECK</string>
+    <string name="btn_next">NEXT</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="name_test">Naufal</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="back_button_description">ic back</string>
+    <string name="user_name_format">%1$s %2$s</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="no_data_available">No data available</string>
+</resources>
